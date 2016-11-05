@@ -1,0 +1,489 @@
+fileFormatVersion: 2
+guid: 343b8948ff05b784d83c0c29dd23b3e9
+timeCreated: 1477901374
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AdobeStock_63757615 [Converted]_0
+    21300002: AdobeStock_63757615 [Converted]_1
+    21300004: AdobeStock_63757615 [Converted]_2
+    21300006: AdobeStock_63757615 [Converted]_3
+    21300008: AdobeStock_63757615 [Converted]_4
+    21300010: AdobeStock_63757615 [Converted]_5
+    21300012: AdobeStock_63757615 [Converted]_6
+    21300014: AdobeStock_63757615 [Converted]_7
+    21300016: AdobeStock_63757615 [Converted]_8
+    21300018: AdobeStock_63757615 [Converted]_9
+    21300020: AdobeStock_63757615 [Converted]_10
+    21300022: AdobeStock_63757615 [Converted]_11
+    21300024: AdobeStock_63757615 [Converted]_12
+    21300026: AdobeStock_63757615 [Converted]_13
+    21300028: AdobeStock_63757615 [Converted]_14
+    21300030: AdobeStock_63757615 [Converted]_15
+    21300032: AdobeStock_63757615 [Converted]_16
+    21300034: AdobeStock_63757615 [Converted]_17
+    21300036: AdobeStock_63757615 [Converted]_18
+    21300038: AdobeStock_63757615 [Converted]_19
+    21300040: AdobeStock_63757615 [Converted]_20
+    21300042: AdobeStock_63757615 [Converted]_21
+    21300044: AdobeStock_63757615 [Converted]_22
+    21300046: AdobeStock_63757615 [Converted]_23
+    21300048: AdobeStock_63757615 [Converted]_24
+    21300050: AdobeStock_63757615 [Converted]_25
+    21300052: AdobeStock_63757615 [Converted]_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AdobeStock_63757615 [Converted]_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 6667
+        height: 5000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1024, y: 768}
+        - {x: -1024, y: -768}
+        - {x: 1024, y: -768}
+        - {x: 1024, y: 768}
+    - name: AdobeStock_63757615 [Converted]_1
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 2507
+        width: 316
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.95395, y: 47.111877}
+        - {x: -48.95395, y: -46.888123}
+        - {x: 49.04605, y: -46.888123}
+        - {x: 49.04605, y: 47.111877}
+    - name: AdobeStock_63757615 [Converted]_2
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 2509
+        width: 319
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.481873, y: 47.726257}
+        - {x: -49.481873, y: -46.273743}
+        - {x: 49.518127, y: -46.273743}
+        - {x: 49.518127, y: 47.726257}
+    - name: AdobeStock_63757615 [Converted]_3
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 2507
+        width: 316
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.245117, y: 47.111877}
+        - {x: -48.245117, y: -46.888123}
+        - {x: 49.754883, y: -46.888123}
+        - {x: 49.754883, y: 47.111877}
+    - name: AdobeStock_63757615 [Converted]_4
+      rect:
+        serializedVersion: 2
+        x: 2365
+        y: 2509
+        width: 314
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.00836, y: 47.226257}
+        - {x: -48.00836, y: -45.773743}
+        - {x: 48.99164, y: -45.773743}
+        - {x: 48.99164, y: 47.226257}
+    - name: AdobeStock_63757615 [Converted]_5
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 2508
+        width: 313
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.964417, y: 46.919067}
+        - {x: -47.964417, y: -46.080933}
+        - {x: 49.035583, y: -46.080933}
+        - {x: 49.035583, y: 46.919067}
+    - name: AdobeStock_63757615 [Converted]_6
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 2507
+        width: 313
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.92047, y: 47.111877}
+        - {x: -47.92047, y: -46.888123}
+        - {x: 49.07953, y: -46.888123}
+        - {x: 49.07953, y: 47.111877}
+    - name: AdobeStock_63757615 [Converted]_7
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 2508
+        width: 318
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.948364, y: 47.419067}
+        - {x: -48.948364, y: -46.580933}
+        - {x: 50.051636, y: -46.580933}
+        - {x: 50.051636, y: 47.419067}
+    - name: AdobeStock_63757615 [Converted]_8
+      rect:
+        serializedVersion: 2
+        x: 3824
+        y: 2509
+        width: 314
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.325928, y: 47.726257}
+        - {x: -48.325928, y: -46.273743}
+        - {x: 49.674072, y: -46.273743}
+        - {x: 49.674072, y: 47.726257}
+    - name: AdobeStock_63757615 [Converted]_9
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 2510
+        width: 315
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.510742, y: 46.533447}
+        - {x: -48.510742, y: -46.466553}
+        - {x: 49.489258, y: -46.466553}
+        - {x: 49.489258, y: 46.533447}
+    - name: AdobeStock_63757615 [Converted]_10
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 2510
+        width: 316
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.309937, y: 46.533447}
+        - {x: -48.309937, y: -46.466553}
+        - {x: 49.690063, y: -46.466553}
+        - {x: 49.690063, y: 46.533447}
+    - name: AdobeStock_63757615 [Converted]_11
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 2158
+        width: 316
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.520996, y: 47.90442}
+        - {x: -48.520996, y: -46.09558}
+        - {x: 50.479004, y: -46.09558}
+        - {x: 50.479004, y: 47.90442}
+    - name: AdobeStock_63757615 [Converted]_12
+      rect:
+        serializedVersion: 2
+        x: 3919
+        y: 2158
+        width: 318
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.643433, y: 47.90442}
+        - {x: -48.643433, y: -46.09558}
+        - {x: 50.356567, y: -46.09558}
+        - {x: 50.356567, y: 47.90442}
+    - name: AdobeStock_63757615 [Converted]_13
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 2157
+        width: 314
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.42273, y: 47.59729}
+        - {x: -48.42273, y: -46.40271}
+        - {x: 49.57727, y: -46.40271}
+        - {x: 49.57727, y: 47.59729}
+    - name: AdobeStock_63757615 [Converted]_14
+      rect:
+        serializedVersion: 2
+        x: 3193
+        y: 2157
+        width: 314
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.159485, y: 47.59729}
+        - {x: -48.159485, y: -46.40271}
+        - {x: 49.840515, y: -46.40271}
+        - {x: 49.840515, y: 47.59729}
+    - name: AdobeStock_63757615 [Converted]_15
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 2157
+        width: 313
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.08905, y: 47.59729}
+        - {x: -48.08905, y: -46.40271}
+        - {x: 48.91095, y: -46.40271}
+        - {x: 48.91095, y: 47.59729}
+    - name: AdobeStock_63757615 [Converted]_16
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 2158
+        width: 316
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.247375, y: 47.90442}
+        - {x: -48.247375, y: -46.09558}
+        - {x: 49.752625, y: -46.09558}
+        - {x: 49.752625, y: 47.90442}
+    - name: AdobeStock_63757615 [Converted]_17
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 2159
+        width: 312
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.64099, y: 46.71161}
+        - {x: -47.64099, y: -46.28839}
+        - {x: 49.35901, y: -46.28839}
+        - {x: 49.35901, y: 46.71161}
+    - name: AdobeStock_63757615 [Converted]_18
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 2157
+        width: 313
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.841858, y: 47.59729}
+        - {x: -47.841858, y: -46.40271}
+        - {x: 49.158142, y: -46.40271}
+        - {x: 49.158142, y: 47.59729}
+    - name: AdobeStock_63757615 [Converted]_19
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 2157
+        width: 312
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.500153, y: 47.09729}
+        - {x: -47.500153, y: -45.90271}
+        - {x: 49.499847, y: -45.90271}
+        - {x: 49.499847, y: 47.09729}
+    - name: AdobeStock_63757615 [Converted]_20
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 1802
+        width: 316
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.55664, y: 47.54669}
+        - {x: -48.55664, y: -46.45331}
+        - {x: 49.44336, y: -46.45331}
+        - {x: 49.44336, y: 47.54669}
+    - name: AdobeStock_63757615 [Converted]_21
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 1802
+        width: 316
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.512695, y: 47.04669}
+        - {x: -48.512695, y: -45.95331}
+        - {x: 49.487305, y: -45.95331}
+        - {x: 49.487305, y: 47.04669}
+    - name: AdobeStock_63757615 [Converted]_22
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 1801
+        width: 315
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.46875, y: 47.239502}
+        - {x: -48.46875, y: -46.760498}
+        - {x: 49.53125, y: -46.760498}
+        - {x: 49.53125, y: 47.239502}
+    - name: AdobeStock_63757615 [Converted]_23
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1802
+        width: 313
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.117615, y: 47.54669}
+        - {x: -48.117615, y: -46.45331}
+        - {x: 49.882385, y: -46.45331}
+        - {x: 49.882385, y: 47.54669}
+    - name: AdobeStock_63757615 [Converted]_24
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 1802
+        width: 318
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.645508, y: 47.04669}
+        - {x: -48.645508, y: -45.95331}
+        - {x: 50.354492, y: -45.95331}
+        - {x: 50.354492, y: 47.04669}
+    - name: AdobeStock_63757615 [Converted]_25
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 1803
+        width: 314
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.02307, y: 47.85388}
+        - {x: -48.02307, y: -46.14612}
+        - {x: 49.97693, y: -46.14612}
+        - {x: 49.97693, y: 47.85388}
+    - name: AdobeStock_63757615 [Converted]_26
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 1802
+        width: 313
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.015137, y: 47.04669}
+        - {x: -48.015137, y: -45.95331}
+        - {x: 48.984863, y: -45.95331}
+        - {x: 48.984863, y: 47.04669}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
