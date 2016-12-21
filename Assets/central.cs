@@ -38,6 +38,7 @@ public class central : MonoBehaviour {
 
     }
 
+    //Get user input, add item until the list count equal of number of required letter
     public void UserInput(string c)
     {
         
